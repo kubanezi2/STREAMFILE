@@ -28,7 +28,7 @@
     <li>
       <a href="#how-to-make-your-own">How to make your own</a>
       <ul>
-        <li><a href="#deploy-on-heroku">Deploy using Heroku</a></li>
+        <li><a href="#depl">Deploy using Heroku</a></li>
         <li><a href="#host-it-on-vps-or-locally">Run it in a VPS / local</a></li>
       </ul>
     </li>
@@ -47,7 +47,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
+    <a herf="https://github.com/kubanezi2/STREAMFILE">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -74,7 +74,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://github.com/kubanezi2/STREAMFILE
 cd TG-FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
